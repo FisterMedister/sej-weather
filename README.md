@@ -1,2 +1,3 @@
 # sej-weather
-Weather App
+## Weather App using React Native Expo
+### Future project
